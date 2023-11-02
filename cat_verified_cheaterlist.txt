@@ -1,0 +1,58 @@
+cat_pl_add_id 1014656832 RAGE //possible rijin user - "russian god of darkstomrn"
+cat_pl_add_id 456466260 RAGE //caught by Vorobey, cheater on Valve Casual - member of p2ls spam bot hosting/abandoned cheating group
+cat_pl_add_id 1208831536 RAGE //marked by rijin (known cheater yada yada)
+cat_pl_add_id 1205471173 RAGE //steam profile URL squatting (megascatterbomb) - lmaobox user
+cat_pl_add_id 1232215085 RAGE //cheater on Valve Casual (marked as cheater)
+cat_pl_add_id 1142034378 RAGE //cheater on Valve Casual with weird profile (keyword: cp) - member of jared TF2 cheating group
+cat_pl_add_id 969347490 RAGE //cheater on Valve Casual (marked as cheater)
+cat_pl_add_id 984067239 RAGE //cheater on Valve Casual (marked as cheater)
+cat_pl_add_id 1265252477 RAGE //cheater on Valve Casual (marked as cheater), friend of U:1:1256287921 (marked rijin user)
+cat_pl_add_id 1360074599 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 166626257 RAGE  // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1476063834 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1476063834 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1276679376 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1293092754 RAGE // found on Swag HvH US, closet cheater on Valve Casual (0 fov aimbot spy on rage player)
+cat_pl_add_id 1542140581 RAGE //found on sourcehvh.net, semi-rage cheater on Valve Casual
+cat_pl_add_id 282983196 RAGE //micspammer found on Swag HvH US, obvious rage cheating (AA/double tap scout)
+cat_pl_add_id 1602173507 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1113953339 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1180887755 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 32030434 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1441396989 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1602916289 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 356068859 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1219133420 RAGE // found on sourcehvh.net, rijin user - deadly
+cat_pl_add_id 1240966008 RAGE //closet femboy but rijin hater, lmaobox user (Ace is High)
+cat_pl_add_id 46519035 RAGE //known rijin user - dnd
+cat_pl_add_id 1232624829 RAGE //known rijin user - kane (hoopah)
+cat_pl_add_id 1272369526 RAGE //known rijin user - mac
+cat_pl_add_id 1442604024 RAGE //known rijin user - ice
+cat_pl_add_id 202553159 RAGE //known rijin user - eya
+cat_pl_add_id 1422622370 RAGE //known rijin user - forest - sourcehvh.net server admin
+cat_pl_add_id 1607569364 RAGE //known rijin user - BOSNISCHE LEGENDE
+cat_pl_add_id 1418751454 RAGE //known rijin user - xXstreetFighter.xX2 - friend of U:1:1256287921
+cat_pl_add_id 1560188681 RAGE //known rijin user - Kerfa
+cat_pl_add_id 845114028 RAGE //known rijin user - macedoniaN
+cat_pl_add_id 122823546 RAGE //known rijin user
+cat_pl_add_id 177392371 RAGE //lmaobox user
+cat_pl_add_id 409667656 RAGE //known lmaobox user - katt
+cat_pl_add_id 1547945744 RAGE //marked as a rijin user
+cat_pl_add_id 105366804 RAGE //closet cheating
+cat_pl_add_id 440131445 RAGE //lmaobox closet cheating with very weird name (keyword: cunny) - part of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 1474510323 RAGE //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 966860451 RAGE  //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 1165529252 RAGE //party creator
+cat_pl_add_id 1026879540 RAGE //member of party U:1165529252
+cat_pl_add_id 1013495139 RAGE //member of party U:1165529252
+cat_pl_add_id 1257269747 RAGE //member of party U:1165529252
+cat_pl_add_id 1554156310 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1584864748 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1256287921 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1537287143 RAGE //using fedoraware (found on sourcehvh.net)
+cat_pl_add_id 1607765529 RAGE //lmaobox multibox (found on Swag HvH US)
+cat_pl_add_id 1191896633 RAGE //marked rijin user (found on Swag HvH US, sourcehvh.net)
+cat_pl_add_id 137904032 RAGE //rijin user (found on sourcehvh.net)
+cat_pl_add_id 1602916289 RAGE //rijin user (alt of U:137904032)
+cat_pl_add_id 1601210873 RAGE //proto.tf user (found on sourcehvh.net)
+cat_pl_add_id 1515213757 RAGE //rijin user (found on sourcehvh.net)
