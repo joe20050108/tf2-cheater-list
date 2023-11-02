@@ -30,6 +30,7 @@ cat_pl_add_id 1123567414 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1562249885 RAGE // found on sourcehvh.net, obvious rage cheating - uses jengaware (black cat gaming: jengaware was good)
 cat_pl_add_id 1250980982 RAGE //found on sourcehvh.net, obvious rage cheating - rijin user
 cat_pl_add_id 1441396989 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1066784683 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1589860818 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1184002258 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1520678101 RAGE // found on sourcehvh.net, obvious rage cheating
