@@ -43,7 +43,8 @@ cat_pl_add_id 440131445 RAGE //lmaobox closet cheating with very weird name (key
 cat_pl_add_id 1474510323 RAGE //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
 cat_pl_add_id 966860451 RAGE  //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
 cat_pl_add_id 1165529252 RAGE //party creator
-cat_pl_add_id 1026879540 RAGE //member of party U:1165529252
+cat_pl_add_id 898215093 RAGE //member of party U:1165529252
+cat_pl_add_id 1237943394 RAGE //member of party U:1165529252
 cat_pl_add_id 1013495139 RAGE //member of party U:1165529252
 cat_pl_add_id 1257269747 RAGE //member of party U:1165529252
 cat_pl_add_id 1554156310 RAGE // found on sourcehvh.net, obvious rage cheating
