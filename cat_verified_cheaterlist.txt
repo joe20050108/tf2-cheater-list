@@ -1,3 +1,5 @@
+cat_pl_add_id 883306465 RAGE //closet cheater found on Valve Casual with very interesting inventory (cp, loli) hinting at pedophilia
+cat_pl_add_id 1483140118 RAGE //alt of U:1:883306465 - confirms suspicion
 cat_pl_add_id 1014656832 RAGE //possible rijin user - "russian god of darkstomrn"
 cat_pl_add_id 456466260 RAGE //caught by Vorobey, cheater on Valve Casual - member of p2ls spam bot hosting/abandoned cheating group
 cat_pl_add_id 1208831536 RAGE //marked by rijin (known cheater yada yada)
@@ -8,7 +10,8 @@ cat_pl_add_id 969347490 RAGE //cheater on Valve Casual (marked as cheater)
 cat_pl_add_id 984067239 RAGE //cheater on Valve Casual (marked as cheater)
 cat_pl_add_id 1265252477 RAGE //cheater on Valve Casual (marked as cheater), friend of U:1:1256287921 (marked rijin user)
 cat_pl_add_id 1360074599 RAGE // found on Swag HvH US, obvious rage cheating
-cat_pl_add_id 166626257 RAGE  // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 166626257 RAGE  // found on sourcehvh.net, Swag HvH US, obvious rage cheating - (gentlemanschickendinner98c: i only use silent aim with 180 fov)
+cat_pl_add_id 1541285753 RAGE // found on sourcehvh.net, obvious rage cheating - uses fedoraware (im accidentally punched my ball: whats ur triggerbot button), (im accidentally punched my ball: oh i use fedoraware)
 cat_pl_add_id 1476063834 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1476063834 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1276679376 RAGE // found on Swag HvH US, obvious rage cheating
@@ -18,30 +21,52 @@ cat_pl_add_id 282983196 RAGE //micspammer found on Swag HvH US, obvious rage che
 cat_pl_add_id 1602173507 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1113953339 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1180887755 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1178469693 RAGE // found on Swag HvH US, sourcehvh.net, obvious rage cheating - name: Nitrous Peroxide
 cat_pl_add_id 32030434 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1306401920 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 837355471 RAGE // found on Swag HvH US, sourcehvh.net, closet cheater on Valve Casual
+cat_pl_add_id 447731402 RAGE // found on sourcehvh.net, obvious rage cheating (Awesomehenry: what cheat)
+cat_pl_add_id 1123567414 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1562249885 RAGE // found on sourcehvh.net, obvious rage cheating - uses jengaware (black cat gaming: jengaware was good)
+cat_pl_add_id 1250980982 RAGE //found on sourcehvh.net, obvious rage cheating - rijin user
 cat_pl_add_id 1441396989 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1589860818 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1184002258 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1520678101 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 76110960 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1602916289 RAGE // found on sourcehvh.net, obvious rage cheating
-cat_pl_add_id 356068859 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 906172954 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 356068859 RAGE // found on sourcehvh.net, obvious rage cheating (76561198316334587: can you kindly tell myzarfin and the other pasters over at proto.tf to stop making wannabe copies of my cheat)
+cat_pl_add_id 1449151231 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1219133420 RAGE // found on sourcehvh.net, rijin user - deadly
 cat_pl_add_id 1240966008 RAGE //closet femboy but rijin hater, lmaobox user (Ace is High)
+cat_pl_add_id 1136821807 RAGE  //known rijin user - yani - double tap scout cheating
+cat_pl_add_id 255136073 RAGE //known rijin user - hinting at pedophilia
+cat_pl_add_id 855391905 RAGE //known rijin user - rocketmanz1 - creating fake screenshots on people they dont like (i was the victim)
+cat_pl_add_id 1587007256 RAGE //known rijin user - member of jared TF2 cheating group
 cat_pl_add_id 46519035 RAGE //known rijin user - dnd
+cat_pl_add_id 328353118 RAGE //known rijin user - scroll
+cat_pl_add_id 190898926 RAGE //friend of U:1:328353118, CSGO (now CS2) cheater / hints at pedophilia jokes
+cat_pl_add_id 1223072490 RAGE //known rijin user - aneurysm (archived due to TF2/CS ban) - name: Pou
 cat_pl_add_id 1232624829 RAGE //known rijin user - kane (hoopah)
 cat_pl_add_id 1272369526 RAGE //known rijin user - mac
 cat_pl_add_id 1442604024 RAGE //known rijin user - ice
 cat_pl_add_id 202553159 RAGE //known rijin user - eya
-cat_pl_add_id 1422622370 RAGE //known rijin user - forest - sourcehvh.net server admin
+cat_pl_add_id 1422622370 RAGE //known rijin user - forest - sourcehvh.net server mod
 cat_pl_add_id 1607569364 RAGE //known rijin user - BOSNISCHE LEGENDE
 cat_pl_add_id 1418751454 RAGE //known rijin user - xXstreetFighter.xX2 - friend of U:1:1256287921
 cat_pl_add_id 1560188681 RAGE //known rijin user - Kerfa
-cat_pl_add_id 845114028 RAGE //known rijin user - macedoniaN
+cat_pl_add_id 845114028 RAGE //known rijin user - macedoniaN - creator of SCHLÄGER CREW󠁘󠁘 TF2 cheating group 
+cat_pl_add_id 361705076 RAGE //known rijin user - solar - member of SCHLÄGER CREW󠁘󠁘 TF2 cheating group 
+cat_pl_add_id 1591349336 RAGE //known rijin user - member of SCHLÄGER CREW󠁘󠁘 TF2 cheating group
 cat_pl_add_id 122823546 RAGE //known rijin user
 cat_pl_add_id 177392371 RAGE //lmaobox user
 cat_pl_add_id 409667656 RAGE //known lmaobox user - katt
 cat_pl_add_id 1547945744 RAGE //marked as a rijin user
 cat_pl_add_id 105366804 RAGE //closet cheating
-cat_pl_add_id 440131445 RAGE //lmaobox closet cheating with very weird name (keyword: cunny) - part of ᵗʳʰ koth_harvest NA TF2 cheating group
-cat_pl_add_id 1474510323 RAGE //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
-cat_pl_add_id 966860451 RAGE  //lmaobox closet cheating - friend of U:440131445 - part of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 440131445 RAGE //lmaobox closet cheating with very weird name (keyword: cunny) - member of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 1474510323 RAGE //lmaobox closet cheating - friend of U:440131445 - member of ᵗʳʰ koth_harvest NA TF2 cheating group
+cat_pl_add_id 966860451 RAGE  //lmaobox closet cheating - friend of U:440131445 - member of ᵗʳʰ koth_harvest NA TF2 cheating group
 cat_pl_add_id 1165529252 RAGE //party creator
 cat_pl_add_id 898215093 RAGE //member of party U:1165529252
 cat_pl_add_id 1237943394 RAGE //member of party U:1165529252
