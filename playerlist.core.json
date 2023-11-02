@@ -1,0 +1,572 @@
+{
+    "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+    "file_info": {
+        "authors": [
+            "SteamHistory.net"
+        ],
+        "description": "Automatically generated list via SteamHistory's BulkSearch tool",
+        "title": "SteamHistory List"
+    },
+    "players": [
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "I forgot how to forget",
+                "time": 0
+            },
+            "steamid": 76561198974922560
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "scary skibidi toilet",
+                "time": 0
+            },
+            "steamid": 76561198416731988
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fredrik",
+                "time": 0
+            },
+            "steamid": 76561199169097264
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "brentontarrantcodpro@yahoo.com",
+                "time": 0
+            },
+            "steamid": 76561199165736901
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "yes",
+                "time": 0
+            },
+            "steamid": 76561199192480813
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "aCht0_0SluchilOs?u043e.u041e",
+                "time": 0
+            },
+            "steamid": 76561199102300106
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dream Air",
+                "time": 0
+            },
+            "steamid": 76561198929613218
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "artik",
+                "time": 0
+            },
+            "steamid": 76561198944332967
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ciganyrendorseg",
+                "time": 0
+            },
+            "steamid": 76561199225518205
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "KoalasAreCool01",
+                "time": 0
+            },
+            "steamid": 76561199320340327
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TNTJoeyAlhamdulilah2009shit",
+                "time": 0
+            },
+            "steamid": 76561198126891985
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "impulse 101 demon",
+                "time": 0
+            },
+            "steamid": 76561199436329562
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Forked FedoraWare user",
+                "time": 0
+            },
+            "steamid": 76561199236945104
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DJ Paul",
+                "time": 0
+            },
+            "steamid": 76561199253358482
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bluteam",
+                "time": 0
+            },
+            "steamid": 76561199502406309
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Yougnom / Radio man look my pf",
+                "time": 0
+            },
+            "steamid": 76561198243248924
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "j7(new ver)",
+                "time": 0
+            },
+            "steamid": 76561199562439235
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "RonRegular200788845",
+                "time": 0
+            },
+            "steamid": 76561199074219067
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "oggusguohsgo",
+                "time": 0
+            },
+            "steamid": 76561199141153483
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fl8",
+                "time": 0
+            },
+            "steamid": 76561197992296162
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Astra",
+                "time": 0
+            },
+            "steamid": 76561199401662717
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "scoundrel_7684915",
+                "time": 0
+            },
+            "steamid": 76561199563182017
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "76561198316334587",
+                "time": 0
+            },
+            "steamid": 76561198316334587
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "deadly",
+                "time": 0
+            },
+            "steamid": 76561199179399148
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "joyous",
+                "time": 0
+            },
+            "steamid": 76561199201231736
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dnd",
+                "time": 0
+            },
+            "steamid": 76561198006784763
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "hoopah",
+                "time": 0
+            },
+            "steamid": 76561199192890557
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mac",
+                "time": 0
+            },
+            "steamid": 76561199232635254
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "JEWISH HVH ASSISTANT",
+                "time": 0
+            },
+            "steamid": 76561199402869752
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "eya",
+                "time": 0
+            },
+            "steamid": 76561198162818887
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "forest",
+                "time": 0
+            },
+            "steamid": 76561199382888098
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "raideN",
+                "time": 0
+            },
+            "steamid": 76561199567835092
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "xX_Irong.Lung_Lover.xX19",
+                "time": 0
+            },
+            "steamid": 76561199379017182
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Kerfa",
+                "time": 0
+            },
+            "steamid": 76561199520454409
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "udb40udc73u2067u2067 totschlu00e4ger",
+                "time": 0
+            },
+            "steamid": 76561198805379756
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gameshark for hl2",
+                "time": 0
+            },
+            "steamid": 76561198083089274
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Coldest Rage",
+                "time": 0
+            },
+            "steamid": 76561198137658099
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "katt",
+                "time": 0
+            },
+            "steamid": 76561198369933384
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "R@G3_ENDUCING_ACC",
+                "time": 0
+            },
+            "steamid": 76561199508211472
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fwostylicious",
+                "time": 0
+            },
+            "steamid": 76561198065632532
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "u1d57u02b3u02b0 Cnuy Sentry",
+                "time": 0
+            },
+            "steamid": 76561198400397173
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "u1d57u02b3u02b0 ephemeral",
+                "time": 0
+            },
+            "steamid": 76561199434776051
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "uptempo is my tempo.",
+                "time": 0
+            },
+            "steamid": 76561198927126179
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "April",
+                "time": 0
+            },
+            "steamid": 76561199125794980
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Emerald_Prime",
+                "time": 0
+            },
+            "steamid": 76561198987145268
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hypnotikat",
+                "time": 0
+            },
+            "steamid": 76561198973760867
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "expert",
+                "time": 0
+            },
+            "steamid": 76561199217535475
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "u2655 C0MP u2655",
+                "time": 0
+            },
+            "steamid": 76561199514422038
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "d3m0man",
+                "time": 0
+            },
+            "steamid": 76561199545130476
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "day 1 into nnn about to burst",
+                "time": 0
+            },
+            "steamid": 76561199216553649
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Legit",
+                "time": 0
+            },
+            "steamid": 76561199497552871
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mystical The Greg",
+                "time": 0
+            },
+            "steamid": 76561199568031257
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "3 Signs You're About To bhop",
+                "time": 0
+            },
+            "steamid": 76561199152162361
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "misunderstood pou",
+                "time": 0
+            },
+            "steamid": 76561198098169760
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "nosense",
+                "time": 0
+            },
+            "steamid": 76561199561476601
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "MA$$",
+                "time": 0
+            },
+            "steamid": 76561199475479485
+        }
+    ]
+}
