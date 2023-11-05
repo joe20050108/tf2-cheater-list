@@ -37,6 +37,7 @@ cat_pl_add_id 1441396989 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1066784683 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1589860818 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1184002258 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1602989035 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1520678101 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 76110960 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1602916289 RAGE // found on sourcehvh.net, obvious rage cheating
@@ -52,6 +53,7 @@ cat_pl_add_id 1587007256 RAGE //known rijin user - member of jared TF2 cheating 
 cat_pl_add_id 46519035 RAGE //known rijin user - dnd
 cat_pl_add_id 328353118 RAGE //known rijin user - scroll
 cat_pl_add_id 190898926 RAGE //friend of U:1:328353118, CSGO (now CS2) cheater / hints at pedophilia jokes
+cat_pl_add_id 483359992 RAGE //known rijin user - myroware on friends list: If out of loop: myroware is friends with sanses who is a pedophile, and there is evidence suggesting that myroware is a made up character for sanses. Either way myroware is an weird and interesting individual, uploading SCP games to a czech children website.
 cat_pl_add_id 1223072490 RAGE //known rijin user - aneurysm (archived due to TF2/CS ban) - name: Pou
 cat_pl_add_id 1232624829 RAGE //known rijin user - kane (hoopah)
 cat_pl_add_id 1272369526 RAGE //known rijin user - mac
