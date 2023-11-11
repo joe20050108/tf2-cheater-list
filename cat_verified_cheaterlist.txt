@@ -1,6 +1,7 @@
+cat_pl_add_id 440135044 RAGE //closet cheater found on Valve Casual - rijin user
 cat_pl_add_id 883306465 RAGE //closet cheater found on Valve Casual with very interesting inventory (cp, loli) hinting at pedophilia
 cat_pl_add_id 1483140118 RAGE //alt of U:1:883306465 - confirms suspicion
-cat_pl_add_id 1014656832 RAGE //possible rijin user - "russian god of darkstomrn"
+cat_pl_add_id 1014656832 RAGE //possible rijin user - "russian god of darkstomrn" (I forgot how to forget: 1), (I forgot how to forget: I HAVE FWARE PREMIUM)
 cat_pl_add_id 456466260 RAGE //caught by Vorobey, cheater on Valve Casual - member of p2ls spam bot hosting/abandoned cheating group
 cat_pl_add_id 1208831536 RAGE //marked by rijin (known cheater yada yada)
 cat_pl_add_id 1205471173 RAGE //steam profile URL squatting (megascatterbomb) - lmaobox user
@@ -17,9 +18,12 @@ cat_pl_add_id 1476063834 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1276679376 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1293092754 RAGE // found on Swag HvH US, closet cheater on Valve Casual (0 fov aimbot spy on rage player)
 cat_pl_add_id 1542140581 RAGE //found on sourcehvh.net, semi-rage cheater on Valve Casual
+cat_pl_add_id 177392371 RAGE //found on Swag HvH US, sourcehvh.net, rage cheater on Valve Casual with 5 member party (doublecross NA: once autobalanced to cheating team, instant votekick with party members saying im living in romania which isnt true) - uses lmaobox
 cat_pl_add_id 282983196 RAGE //micspammer found on Swag HvH US, obvious rage cheating (AA/double tap scout)
 cat_pl_add_id 1602173507 RAGE // found on Swag HvH US, obvious rage cheating
 cat_pl_add_id 1113953339 RAGE // found on Swag HvH US, obvious rage cheating
+cat_pl_add_id 1550015113 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 144480156 RAGE // found on Swag HvH US, sourcehvh.net, closet cheating
 cat_pl_add_id 1180887755 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1178469693 RAGE // found on Swag HvH US, sourcehvh.net, obvious rage cheating - name: Nitrous Peroxide
 cat_pl_add_id 32030434 RAGE // found on sourcehvh.net, obvious rage cheating
@@ -27,12 +31,14 @@ cat_pl_add_id 1306401920 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 837355471 RAGE // found on Swag HvH US, sourcehvh.net, closet cheater on Valve Casual
 cat_pl_add_id 447731402 RAGE // found on sourcehvh.net, obvious rage cheating (Awesomehenry: what cheat)
 cat_pl_add_id 1123567414 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1574121727 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1562249885 RAGE // found on sourcehvh.net, obvious rage cheating - uses jengaware (black cat gaming: jengaware was good)
 cat_pl_add_id 1250980982 RAGE //found on sourcehvh.net, obvious rage cheating - rijin user
 cat_pl_add_id 1441396989 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1066784683 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1589860818 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1184002258 RAGE // found on sourcehvh.net, obvious rage cheating
+cat_pl_add_id 1602989035 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1520678101 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 76110960 RAGE // found on sourcehvh.net, obvious rage cheating
 cat_pl_add_id 1602916289 RAGE // found on sourcehvh.net, obvious rage cheating
@@ -48,6 +54,7 @@ cat_pl_add_id 1587007256 RAGE //known rijin user - member of jared TF2 cheating 
 cat_pl_add_id 46519035 RAGE //known rijin user - dnd
 cat_pl_add_id 328353118 RAGE //known rijin user - scroll
 cat_pl_add_id 190898926 RAGE //friend of U:1:328353118, CSGO (now CS2) cheater / hints at pedophilia jokes
+cat_pl_add_id 483359992 RAGE //known rijin user - myroware on friends list: If out of loop: myroware is friends with sanses who is a pedophile, and there is evidence suggesting that myroware is a made up character for sanses. Either way myroware is an weird and interesting individual, uploading SCP games to a czech children website.
 cat_pl_add_id 1223072490 RAGE //known rijin user - aneurysm (archived due to TF2/CS ban) - name: Pou
 cat_pl_add_id 1232624829 RAGE //known rijin user - kane (hoopah)
 cat_pl_add_id 1272369526 RAGE //known rijin user - mac
@@ -61,7 +68,6 @@ cat_pl_add_id 845114028 RAGE //known rijin user - macedoniaN - creator of SCHLÄ
 cat_pl_add_id 361705076 RAGE //known rijin user - solar - member of SCHLÄGER CREW󠁘󠁘 TF2 cheating group 
 cat_pl_add_id 1591349336 RAGE //known rijin user - member of SCHLÄGER CREW󠁘󠁘 TF2 cheating group
 cat_pl_add_id 122823546 RAGE //known rijin user
-cat_pl_add_id 177392371 RAGE //lmaobox user
 cat_pl_add_id 409667656 RAGE //known lmaobox user - katt
 cat_pl_add_id 1547945744 RAGE //marked as a rijin user
 cat_pl_add_id 105366804 RAGE //closet cheating
